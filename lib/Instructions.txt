@@ -1,0 +1,17 @@
+Ran via Visual Studio Code 
+
+Login Password is 5555
+
+Clerk:
+Seat Next Party: Finds next party to Seat
+Plus sign goes to add customer page where you input first the name then the party size
+Minus sign goes to remove customer Page where you input the name and the customer is removed from the list
+Check Waiting times gets name from input field and checks waiting times based upon clean tables
+
+
+BusBoy:
+Cleans table by resetting the table after inputting table number
+
+Waiter:
+Adds menu items to a bill for each table
+
